@@ -1,6 +1,6 @@
 # Data Science Projects-- For Business
 
-Here I will be working on different data sets and problems statements in a company/organization.
+Here I will be working on different data sets and problems statements related to a company/organization.
 
 ## Domains:-
 - Human Resource Department
